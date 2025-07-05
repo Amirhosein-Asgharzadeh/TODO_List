@@ -1,19 +1,20 @@
-# TODO_List
-todo list with CustomTkinter
+# TODO_List with customtkinter
 
-#Program features
+Program features
+
 -show date and time
 -add plan or task
 -delete all task
 -delete one plan at a time
 
-#Requirements
+
+Requirements
 -customtkinter library
 
 '''bash
 pip install customtkinter
 
-#project picture
+project picture
 ![project_picture](./screenshot.png)
 
 
